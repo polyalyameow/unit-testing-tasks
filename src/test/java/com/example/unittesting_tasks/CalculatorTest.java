@@ -1,5 +1,6 @@
 package com.example.unittesting_tasks;
 
+import com.example.unittesting_tasks.calculator.Calculator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

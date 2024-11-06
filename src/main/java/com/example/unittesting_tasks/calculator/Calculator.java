@@ -1,4 +1,4 @@
-package com.example.unittesting_tasks;
+package com.example.unittesting_tasks.calculator;
 
 public class Calculator {
 
